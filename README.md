@@ -1,4 +1,8 @@
 # Doxpone
+
+
+# INSTALACION
+
 pkg install python -y
 
  pkg upgrade -y
@@ -7,4 +11,9 @@ pkg install python -y
 
 
 
+# EJECUTAR
+git clone https://github.com/TiaguitoXxyt/Doxpone
 
+cd Doxpone
+
+python Doxpone.py
